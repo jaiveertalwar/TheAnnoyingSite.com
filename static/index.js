@@ -901,7 +901,7 @@ function rainbowThemeColor () {
  * Copy cat pictures onto the user's clipboard. Requires user-initiated event.
  */
 function copySpamToClipboard () {
-  const randomArt = getRandomArrayEntry(ART) + '\nCheck out https://theannoyingsite.com'
+  const randomArt = getRandomArrayEntry(ART) + '\nCheck out https://annoyr.jtlr.tech'
   clipboardCopy(randomArt)
 }
 
